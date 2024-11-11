@@ -1,0 +1,2 @@
+# RabbitMQ
+Distributed Message Queue
